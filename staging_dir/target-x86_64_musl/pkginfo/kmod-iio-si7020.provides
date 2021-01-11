@@ -1,0 +1,5 @@
+i2c-dev.ko
+industrialio-triggered-buffer.ko
+industrialio.ko
+kfifo_buf.ko
+si7020.ko

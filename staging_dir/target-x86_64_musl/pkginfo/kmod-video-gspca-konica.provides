@@ -1,0 +1,5 @@
+gspca_konica.ko
+gspca_main.ko
+i2c-dev.ko
+v4l2-common.ko
+videodev.ko

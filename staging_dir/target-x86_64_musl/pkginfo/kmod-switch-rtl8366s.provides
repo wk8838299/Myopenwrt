@@ -1,0 +1,4 @@
+libphy.ko
+rtl8366_smi.ko
+rtl8366s.ko
+swconfig.ko

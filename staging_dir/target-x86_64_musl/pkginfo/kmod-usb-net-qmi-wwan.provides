@@ -1,0 +1,4 @@
+cdc-wdm.ko
+mii.ko
+qmi_wwan.ko
+usbnet.ko

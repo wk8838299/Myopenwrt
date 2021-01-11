@@ -1,0 +1,6 @@
+hmc5843_core.ko
+hmc5843_i2c.ko
+i2c-dev.ko
+industrialio-triggered-buffer.ko
+industrialio.ko
+kfifo_buf.ko

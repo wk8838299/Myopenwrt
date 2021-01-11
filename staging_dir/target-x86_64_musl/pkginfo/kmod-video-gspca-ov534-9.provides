@@ -1,0 +1,5 @@
+gspca_main.ko
+gspca_ov534_9.ko
+i2c-dev.ko
+v4l2-common.ko
+videodev.ko

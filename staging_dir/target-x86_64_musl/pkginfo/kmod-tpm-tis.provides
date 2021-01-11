@@ -1,0 +1,3 @@
+tpm.ko
+tpm_tis.ko
+tpm_tis_core.ko

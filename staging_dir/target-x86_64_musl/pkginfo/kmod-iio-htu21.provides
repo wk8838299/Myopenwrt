@@ -1,0 +1,6 @@
+htu21.ko
+i2c-dev.ko
+industrialio-triggered-buffer.ko
+industrialio.ko
+kfifo_buf.ko
+ms_sensors_i2c.ko

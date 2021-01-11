@@ -1,0 +1,7 @@
+crc-ccitt.ko
+ppp_async.ko
+ppp_generic.ko
+ppp_mppe.ko
+sha1-ssse3.ko
+sha1_generic.ko
+slhc.ko
